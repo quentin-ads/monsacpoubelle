@@ -231,6 +231,7 @@
                         {/* STEP 1 */}
                         {step === 1 && (
                             <div className="animate-fade-in space-y-6">
+                                <p className="text-gray-700 font-medium">Décrivez vos besoins pour recevoir un devis gratuit aux meilleurs prix du marché.</p>
                                 {!isManualRequest ? (
                                     <>
                                         <div className="space-y-4">
